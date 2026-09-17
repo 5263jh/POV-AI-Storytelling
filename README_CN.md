@@ -622,13 +622,15 @@ POV-AI-Storytelling/
 
 ---
 
-# License
+## License
 
-目前暂未确定最终许可证。
+除非另有说明，本仓库中的原创教程、文档与模板采用 **Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）** 许可。
 
-未来可能会针对教程正文、模板、代码、原创图片、完整故事素材采用不同授权方式。
+你可以在**非商业用途**下自由复制、分享、修改、翻译和二次创作，但需要保留适当的作者署名与项目来源。
 
-在正式复用项目前，请先查看仓库中的 License 说明。
+未经单独授权，不允许将本项目内容用于商业用途。
+
+详细许可条款请查看 [LICENSE](LICENSE)。
 
 ---
 
