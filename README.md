@@ -742,17 +742,13 @@ Contribution guidelines will be added as the repository develops.
 
 ## License
 
-A license has not yet been selected for the first public version.
+Unless otherwise stated, the original documentation and templates in this repository are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
-The project may eventually use separate licensing for:
+You are free to share, adapt, translate, and build upon the materials for **non-commercial purposes**, provided that appropriate attribution is given.
 
-- documentation
-- templates
-- code
-- original images
-- complete story assets
+Commercial use is not permitted without separate permission from the repository owner.
 
-Please check the repository license before reusing project content.
+See [LICENSE](LICENSE) for details.
 
 ---
 
