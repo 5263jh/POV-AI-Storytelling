@@ -680,35 +680,20 @@ The framework focuses on:
 
 ## Case Studies
 
-Future case studies will break down complete stories from idea to final sequence:
+### Suburban Online Romance
 
-```text
-Original idea
-↓
-Hidden truth
-↓
-Story structure
-↓
-Evidence design
-↓
-Escalation
-↓
-Storyboard
-↓
-AI-generated shots
-↓
-Continuity corrections
-↓
-Final reveal
-↓
-Post-release analysis
-```
+A complete 35-shot first-person AI visual storytelling case study.
 
-The purpose is not only to show the finished work.
+It demonstrates:
 
-It is to show **why each creative decision was made**.
+- visual foreshadowing
+- evidence-based storytelling
+- suspense escalation
+- POV composition
+- continuity control
+- delayed character reveal
 
----
+[View the complete case study →](examples/suburban_online_romance/)
 
 ## Roadmap
 
