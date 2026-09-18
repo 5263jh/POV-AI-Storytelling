@@ -4,15 +4,29 @@
 
 > A practical framework for turning an idea into a first-person AI visual story with clear cause and effect and coherent image sequences.
 
-This project documents the work of developing a story, defining its recurring elements, planning shots, generating images, and checking the results. It currently provides five fillable templates and documentation for **Suburban Online Romance**, a 35-shot case study.
+This project documents the work of developing a story, defining its recurring elements, planning shots, generating images, and checking the results. It currently provides five introductory and production guides, five fillable templates, and documentation for **Suburban Online Romance**, a 35-shot case study.
 
 The central question is: **How can a sequence of images tell one coherent story?**
 
-Start with the [case study](examples/suburban_online_romance/README.md), or use the [story idea template](templates/story_idea_template.md) for your own project. These are Markdown documents; no software installation is required to use them. Bring your own image-generation tool when you are ready to make images.
+These are Markdown documents; no software installation is required to use them. Bring your own image-generation tool when you are ready to make images.
 
 Chinese project name: **第一视角 AI 视觉叙事方法论**.
 
-The templates and detailed case-study documents are currently primarily in Chinese. This page provides an English introduction and navigation.
+The guides, templates, and detailed case-study documents are currently primarily in Chinese. This page provides an English introduction and navigation.
+
+## New here? Start here
+
+**Begin with [Quick start: complete a four-image workflow](docs/quick_start.md).** The guide uses shots 21–24 of Suburban Online Romance as an exercise, with copyable examples, prompts, and review steps. You do not need to read every document or complete every template first.
+
+| What you need now                                            | Guide                                        |
+| ------------------------------------------------------------ | -------------------------------------------- |
+| Follow a first practical exercise                            | [Quick start](docs/quick_start.md)           |
+| Develop an idea into a story with motivation and cause and effect | [Story design](docs/story_design.md)         |
+| Discuss options, provide references, and request changes     | [Working with AI](docs/human_ai_workflow.md) |
+| Diagnose image problems, choose a correction method, and recheck results | [Image revision](docs/revision_guide.md)     |
+| Find basic answers about templates, perspective, tools, and files | [FAQ](docs/faq.md)                           |
+
+Try the four-image exercise, consult the relevant guides when needed, then [explore the complete case study](examples/suburban_online_romance/README.md). The exercise is a story fragment, not a complete short story, and its prompts are teaching reconstructions. Guide sections and case documents that discuss the ending include spoiler notices.
 
 ## What you can create
 
@@ -24,7 +38,7 @@ First-person images do not need visible hands or feet in every frame. They also 
 
 The current materials mainly cover still-image workflows. Timing, sound, and transitions can be added to the storyboard for video, but a complete video-production tutorial remains future work.
 
-## Quick start
+## Workflow and templates
 
 Begin with a short story of manageable scope. Each template offers a quick entry point and optional detail; you do not need to complete every field at once.
 
@@ -110,25 +124,25 @@ Its escalation levels, shot count, and delayed reveals belong to this particular
 
 ## File navigation
 
-| Path                                                         | Purpose                                     |
-| ------------------------------------------------------------ | ------------------------------------------- |
-| [README.md](README.md)                                       | English introduction                        |
-| [README_CN.md](README_CN.md)                                 | Chinese introduction and starting points    |
-| [templates/](templates/)                                     | Five fillable creation and review templates |
-| [examples/suburban_online_romance/](examples/suburban_online_romance/) | Case-study documents and image directory    |
-| [LICENSE](LICENSE)                                           | Current license notice                      |
+| Path                                                         | Purpose                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [README.md](README.md)                                       | English introduction                                         |
+| [README_CN.md](README_CN.md)                                 | Chinese introduction and starting points                     |
+| [docs/](docs/)                                               | Quick start, story design, working with AI, image revision, and FAQ |
+| [templates/](templates/)                                     | Five fillable creation and review templates                  |
+| [examples/suburban_online_romance/](examples/suburban_online_romance/) | Case-study documents and image directory                     |
+| [LICENSE](LICENSE)                                           | Current license notice                                       |
 
 You can add prompt or asset directories to your own project. This navigation lists the main materials currently provided; planned tutorials, scripts, and asset packs are not presented as existing resources.
 
 ## Current scope and future work
 
-Available materials include Chinese and English project entry pages, five templates, and the Suburban Online Romance case-study documents. Character, location, and prop records are included in the story bible template and can be copied as needed.
+Available materials include Chinese and English project entry pages, five Chinese-language guides, five templates, and the Suburban Online Romance case-study documents. Character, location, and prop records are included in the story bible template and can be copied as needed.
 
 Future work includes:
 
-- A complete walkthrough for first-time users.
-- A workflow for discussing options with AI, choosing a direction, and recording revisions.
-- Prompt examples with actual reference images and version records.
+- Production archives with actual reference images, original prompts, and version records, extending the current teaching examples.
+- English translations of the detailed guides and templates.
 - Cases in more genres to examine how the templates work across different stories.
 - Guidance for editing, release, and organizing audience feedback.
 
